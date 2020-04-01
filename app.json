@@ -4,9 +4,13 @@
     "slug": "News",
     "privacy": "public",
     "sdkVersion": "36.0.0",
+    "android": {
+      "package": "aideepak.myapp",
+      "permissions": []
+    },
     "platforms": [
-      "ios",
       "android",
+      "ios",
       "web"
     ],
     "version": "1.0.0",
