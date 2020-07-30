@@ -1,2 +1,2 @@
 # sample-app 
-Thi application we are developing to understand git.
+This application we are developing to understand git.
